@@ -1,0 +1,3 @@
+Utilize sua IDEA favorita para rodar o código.
+Baixe o arquivo "desafio1.py" e rode o código localmente.
+Futuras modificações em breve...
